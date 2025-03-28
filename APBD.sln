@@ -1,9 +1,5 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task3", "Task3", "{5BAD4B39-FC2B-4C04-92BE-46DF6F5BD40C}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task2", "Task2", "{3EB8277A-2251-49A8-B3F8-4D95D16962B9}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerManagent_02", "ContainerManagent_02\ContainerManagent_02.csproj", "{A167F31E-0140-49DF-BD88-2E184DAAB86D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyApp_03", "LegacyApp_03\LegacyApp_03.csproj", "{ADF9549F-09F7-4931-874F-9B2F501426AB}"
