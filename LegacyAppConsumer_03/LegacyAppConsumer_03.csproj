@@ -5,10 +5,11 @@
         <TargetFramework>net9.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <RootNamespace>LegacyAppConsumer</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\LegacyApp\LegacyApp.csproj" />
+      <ProjectReference Include="..\LegacyApp_03\LegacyApp_03.csproj" />
     </ItemGroup>
 
 </Project>
