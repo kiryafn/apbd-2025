@@ -4,11 +4,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task3", "Task3", "{5BAD4B39
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task2", "Task2", "{3EB8277A-2251-49A8-B3F8-4D95D16962B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerManagent", "ContainerManagent\ContainerManagent.csproj", "{A167F31E-0140-49DF-BD88-2E184DAAB86D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerManagent_02", "ContainerManagent_02\ContainerManagent_02.csproj", "{A167F31E-0140-49DF-BD88-2E184DAAB86D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyApp", "LegacyApp\LegacyApp.csproj", "{ADF9549F-09F7-4931-874F-9B2F501426AB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyApp_03", "LegacyApp_03\LegacyApp_03.csproj", "{ADF9549F-09F7-4931-874F-9B2F501426AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyAppConsumer", "LegacyAppConsumer\LegacyAppConsumer.csproj", "{5A53192A-EC0D-4142-A0F7-9560B719E559}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyAppConsumer_03", "LegacyAppConsumer_03\LegacyAppConsumer_03.csproj", "{5A53192A-EC0D-4142-A0F7-9560B719E559}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
