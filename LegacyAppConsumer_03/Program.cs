@@ -1,4 +1,6 @@
-﻿using LegacyApp;
+﻿
+
+using LegacyApp;
 
 namespace LegacyAppConsumer
 {
